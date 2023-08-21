@@ -5,8 +5,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-image: url();
-    background-color: #000000;
+    background: #000;
 }
         
 /* Estilos para o cabeçalho */
@@ -15,7 +14,7 @@ header {
     padding: 1rem;
     margin-left: 10rem;
     margin-right: 10rem;
-    background-color: #333333;
+    background-color: #33333300;
 }
 
 h1 {
@@ -25,7 +24,7 @@ h1 {
         
 /* Estilos para a barra de navegação */
 nav {
-    background-color: #444444;
+    background-color: #44444400;
     text-align: center;
     padding: 1rem;
     margin-left: 10rem;
@@ -55,7 +54,7 @@ nav a:hover {
         
 /* Estilos para as seções de conteúdo */
 main, p{
-    background-color: #333333;
+    background-color: #33333300;
     text-align: center;
     max-width: 1570px;
     margin: auto;
@@ -114,7 +113,7 @@ p a:active {
 
 /* Estilos para o rodapé */
 footer {
-    background-color: #333333;
+    background-color: #33333300;
     color: #fff;
     text-align: center;
     padding: 11rem;
