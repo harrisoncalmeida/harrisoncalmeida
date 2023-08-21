@@ -1,10 +1,19 @@
-### Hi there 👋
+### Olá, me chamo Harrison Almeida e seja bem-vindo ao meu Overview! 👋
 
+- 📖 Estudando Análise e desenvolvimento de sistemas ...
+- 💻 Futuro full Stack ...
+  
+Bem-vindo ao meu Overview, estou começando na área de TI e estou estudando Análise e desenvolvimento de sistemas. Estou em busca de conhecimento na área para ser um profissional Full Stack. Tenho conhecimento intermediário na parte de HTML, CSS e JavaScript.
+
+  ##
+
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
+  
 <!--
-**harrisoncalmeida/harrisoncalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
