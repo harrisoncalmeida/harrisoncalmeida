@@ -5,7 +5,9 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
+    background-image: url(https://github.com/harrisoncalmeida/ImagesWEB/blob/main/Wallpaper%202.jpg?raw=true);
     background: #000;
+    
 }
         
 /* Estilos para o cabeçalho */
