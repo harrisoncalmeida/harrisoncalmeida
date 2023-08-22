@@ -1,36 +1,49 @@
         
 /* Estilos para o corpo da página */
 body {
+    background-size: 150%;
+    background-image: url(https://github.com/harrisoncalmeida/WallpaperWEB/blob/main/Wallpaper%203.jpg?raw=true);
+    background-repeat: no-repeat;
+    background-image: url(https://github.com/harrisoncalmeida/WallpaperWEB/blob/main/Wallpaper%203.png?raw=true);
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-image: url(https://github.com/harrisoncalmeida/ImagesWEB/blob/main/Wallpaper%202.jpg?raw=true);
-    background: #000;
     
+    
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: block;
 }
         
 /* Estilos para o cabeçalho */
 header {
     text-align: center;
     padding: 1rem;
-    margin-left: 10rem;
-    margin-right: 10rem;
-    background-color: #33333300;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    background-color: #333333;
 }
 
 h1 {
     color: #ffffff;
     font-family: Times New Roman;
 }
-        
+
 /* Estilos para a barra de navegação */
 nav {
-    background-color: #44444400;
+    background-color: #444444;
     text-align: center;
     padding: 1rem;
-    margin-left: 10rem;
-    margin-right: 10rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
 }
         
 nav ul {
@@ -56,13 +69,17 @@ nav a:hover {
         
 /* Estilos para as seções de conteúdo */
 main, p{
-    background-color: #33333300;
+    background-color: #333333;
     text-align: center;
     max-width: 1570px;
     margin: auto;
+        margin-top: ;
+        margin-right: ;
+        margin-bottom: ;
+        margin-left: ;
     padding: 1rem;
-    margin-left: 10rem;
-    margin-right: 10rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
             
 }
         
@@ -115,10 +132,10 @@ p a:active {
 
 /* Estilos para o rodapé */
 footer {
-    background-color: #33333300;
+    background-color: #333333;
     color: #fff;
     text-align: center;
     padding: 11rem;
-    margin-left: 10rem;
-    margin-right: 10rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
 }
