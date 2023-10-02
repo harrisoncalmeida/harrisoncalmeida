@@ -1,8 +1,10 @@
 ### Olá, me chamo Harrison Almeida e seja bem-vindo ao meu Overview! 👋
 
+  ##
 - 📖 Estudando Análise e desenvolvimento de sistemas ...
+  ##
   
-Bem-vindo ao meu Overview, estou começando na área de TI e estou estudando Análise e desenvolvimento de sistemas. Estou em busca de conhecimento na área para ser um profissional Full Stack. Tenho conhecimento intermediário na parte de HTML, CSS e JavaScript.
+Bem-vindo ao meu Overview, estou começando na área de TI e estou estudando Análise e Desenvolvimento de Sistemas. Estou em busca de conhecimento na área para ser um profissional Full Stack. Tenho conhecimento intermediário na parte de HTML, CSS e JavaScript.
 
   ##
 
