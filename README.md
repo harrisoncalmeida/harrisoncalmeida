@@ -8,7 +8,7 @@ Bem-vindo ao meu Overview, estou começando na área de TI e estou estudando An�
 
 <div style="display: flex" align="center">
   <a href="https://github.com/harrisoncalmeida">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=harrisoncalmeida&theme=nord&show_icons=true"/>
+  <img align="left" height="205em" src="https://github-readme-stats.vercel.app/api?username=harrisoncalmeida&theme=nord&show_icons=true"/>
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisoncalmeida&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
   
