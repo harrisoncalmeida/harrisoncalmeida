@@ -1,11 +1,14 @@
+
+ 
+
 <div style="display: flex" align="center">
-   Olá, me chamo Harrison Almeida e seja bem-vindo ao meu Overview! 👋
+   <i>Olá, me chamo Harrison Almeida e seja bem-vindo ao meu Overview! 👋</i>
 </div>
 
 ##
 
 <div style="display: flex" align="center">
-Bem-vindo ao meu Overview, estou começando na área de TI e estou estudando Análise e Desenvolvimento de Sistemas. Estou em busca de conhecimento na área para ser um profissional Full Stack. Tenho conhecimento intermediário na parte de HTML, CSS e JavaScript.
+   <i>Bem-vindo ao meu Overview, estou começando na área de TI e estou estudando Análise e Desenvolvimento de Sistemas. Estou em busca de conhecimento na área para ser um profissional Full Stack. Tenho conhecimento intermediário na parte de</i> <strong>HTML, CSS, Python e JavaScript.</strong>
 </div>
 
 ##
