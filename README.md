@@ -15,9 +15,9 @@
 
 <div style="display: flex" align="center">
   <a href="https://github.com/harrisoncalmeida">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=harrisoncalmeida&theme=nord&"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=harrisoncalmeida&theme=nord&" />
     
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrisoncalmeida&layout=compact&theme=nord&)" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrisoncalmeida&layout=compact&theme=nord&" />
   
 </div>
   
