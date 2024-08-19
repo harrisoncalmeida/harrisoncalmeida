@@ -8,6 +8,6 @@ Estou em processo de estudos na área de **_Análise e desenvolvimento de sistem
 
 # 🔗 Conecte-se comigo
 
-* [Portfólio](https://harrisoncalmeida.github.io/Meu-Portfolio/).
-* [E-mail](harrisonalmeidatr@gmail.com).
-* [Linkedin](www.linkedin.com/in/harrisoncalmeida).
+* [Portfólio](https://harrisoncalmeida.github.io/Meu-Portfolio/)
+* [E-mail](harrisonalmeidatr@gmail.com)
+* [Linkedin](www.linkedin.com/in/harrisoncalmeida)
