@@ -9,5 +9,4 @@ Estou em processo de estudos na área de **_Análise e desenvolvimento de sistem
 # 🔗 Conecte-se comigo
 
 * [Portfólio]()
-* [E-mail]()
 * [Linkedin](https://www.linkedin.com/in/harrisoncalmeida/)
