@@ -10,4 +10,4 @@ Estou em processo de estudos na área de **_Análise e desenvolvimento de sistem
 
 * [Portfólio]()
 * [E-mail]()
-* [Linkedin]()
+* [Linkedin]("www.linkedin.com/in/harrisoncalmeida")
