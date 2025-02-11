@@ -10,3 +10,14 @@ Estou em processo de estudos na área de **_Análise e desenvolvimento de sistem
 
 * [Portfólio](https://harrisoncalmeida.github.io/Portfolio/)
 * [Linkedin](https://www.linkedin.com/in/harrisoncalmeida/)
+
+---
+
+# Linguagens
+
+<img src="./Img/html.png" alt="HTML">
+<img src="./Img/css.png" alt="CSS">
+<img src="./Img/JavaScript.png" alt="JavaScript">
+<img src="./Img/Github.png" alt="Github">
+<img src="./Img/Git.png" alt="Git">
+<img src="./Img/Python.png" alt="Python">
