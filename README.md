@@ -13,7 +13,7 @@ Estou em processo de estudos na área de **_Análise e desenvolvimento de sistem
 
 ---
 
-# Linguagens
+# 💻 Linguagens
 
 <img align="left" style="padding-right: 10px;" src="./Img/html.png" alt="HTML">
 <img align="left" style="padding-right: 10px;" src="./Img/css.png" alt="CSS">
