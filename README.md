@@ -15,9 +15,9 @@ Estou em processo de estudos na área de **_Análise e desenvolvimento de sistem
 
 # Linguagens
 
-<img style="padding-right: 10px;" src="./Img/html.png" alt="HTML">
-<img style="padding-right: 10px;" src="./Img/css.png" alt="CSS">
-<img style="padding-right: 10px;" src="./Img/JavaScript.png" alt="JavaScript">
-<img style="padding-right: 10px;" src="./Img/Github.png" alt="Github">
-<img style="padding-right: 10px;" src="./Img/Git.png" alt="Git">
-<img style="padding-right: 10px;" src="./Img/Python.png" alt="Python">
+<img align="left" style="padding-right: 10px;" src="./Img/html.png" alt="HTML">
+<img align="left" style="padding-right: 10px;" src="./Img/css.png" alt="CSS">
+<img align="left" style="padding-right: 10px;" src="./Img/JavaScript.png" alt="JavaScript">
+<img align="left" style="padding-right: 10px;" src="./Img/Github.png" alt="Github">
+<img align="left" style="padding-right: 10px;" src="./Img/Git.png" alt="Git">
+<img align="left" style="padding-right: 10px;" src="./Img/Python.png" alt="Python">
