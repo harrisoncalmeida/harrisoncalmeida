@@ -21,7 +21,7 @@
 
 Olá, me chamo Harrison Almeida!
 
-Estou em processo de estudos na área de **_Análise e desenvolvimento de sistemas_**, com base nos estudos de Front-End. Gosto de resolver problemas e desenvolver minha habilidades, para torna-me um profissional de qualidade. Já criei alguns projetos simples, como um site de Ebooks, portfólio, Landing page e OptimusTech, que foi meu melhor desafio em meus projetos e estudos.
+Sou apaixonado por tecnologia e desenvolvimento web, com foco em criar interfaces modernas, responsivas e funcionais. Tenho conhecimento em HTML, CSS, Git/GitHub e estou em constante evolução no JavaScript para trazer mais interatividade e dinamismo aos meus projetos.
 
 ###### Você pode encontrar mais sobre mim, em meu [site pessoal](https://harrisoncalmeida.github.io/Portfolio/).
 
