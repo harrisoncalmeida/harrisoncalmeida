@@ -37,7 +37,7 @@ Sou apaixonado por tecnologia e desenvolvimento web, com foco em criar interface
 
 <h3>💻 Linguagens</h3>
 
-<div align="center">
+<div align="left">
   <a href="https://skillicons.dev">
     <img height="40" src="https://skillicons.dev/icons?i=html,css,javascript,git,github,python" />
   </a> 
@@ -51,8 +51,10 @@ Sou apaixonado por tecnologia e desenvolvimento web, com foco em criar interface
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=harrisoncalmeida&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="left"> 
+  <img height=180em src="https://github-readme-stats.vercel.app/api?username=harrisoncalmeida&show_icons=true&theme=transparent" />
+  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrisoncalmeida&layout=compact&theme=transparent" />
+  <!-- <img src="https://streak-stats.demolab.com?user=harrisoncalmeida&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
 </div>
 
 ###
