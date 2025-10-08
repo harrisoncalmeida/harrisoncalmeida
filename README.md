@@ -4,9 +4,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+<div align="center" >
+  <a href="https://mail.google.com/mail/?view=cm&to=harrisoncalmeida@gmail.com" target="_blank" >
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/harrisoncalmeida/" target="_blank" >
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
 </div>
 
 ###
@@ -29,7 +33,7 @@ Sou apaixonado por tecnologia e desenvolvimento web, com foco em criar interface
 
 <h3>🔗 Conecte-se comigo</h3>
 
-* [Portfólio](https://harrisoncalmeida.github.io/Portfolio/)
+* [Portfólio](https://harrisoncalmeida.github.io/portfolio/)
 * [Linkedin](https://www.linkedin.com/in/harrisoncalmeida/)
 * [Instagram](https://www.instagram.com/harrisoncalmeida/)
 
