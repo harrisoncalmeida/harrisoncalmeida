@@ -50,9 +50,9 @@ Você pode me contatar diretamente através do meu [Gmail](mailto:harrisoncalmei
 
 ### 🚀 Projetos Recentes
 Aqui estão alguns dos meus projetos mais recentes:
-- [Projeto A](link)
-- [Projeto B](link)
-
+- [Projeto A](https://one-piece-nine-livid.vercel.app/)
+- [Projeto B](https://optimustech-sage.vercel.app/)
+- [Projeto C](https://lading-page-puce.vercel.app/)
 ###
 
 ---
