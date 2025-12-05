@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=harrisoncalmeida.harrisoncalmeida&.visitor-badge&left_color=red&right_color=green" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=harrisoncalmeida.harrisoncalmeida&.visitor-badge&left_color=red&right_color=blue" />
   <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=harrisoncalmeida.harrisoncalmeida&"  /> -->
 </div>
 
