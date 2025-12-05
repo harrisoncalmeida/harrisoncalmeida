@@ -32,6 +32,7 @@ Você pode me contatar diretamente através do meu [Gmail](mailto:harrisoncalmei
 ---
 
 ### 🔗 Conecte-se comigo
+
 - [Portfólio](https://harrisoncalmeida.github.io/portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/harrisoncalmeida/)
 - [Instagram](https://www.instagram.com/harrisoncalmeida/)
@@ -50,9 +51,9 @@ Você pode me contatar diretamente através do meu [Gmail](mailto:harrisoncalmei
 
 ### 🚀 Projetos Recentes
 Aqui estão alguns dos meus projetos mais recentes:
-- [Projeto A](https://one-piece-nine-livid.vercel.app/)
-- [Projeto B](https://optimustech-sage.vercel.app/)
-- [Projeto C](https://lading-page-puce.vercel.app/)
+- <a href="https://one-piece-nine-livid.vercel.app/" target="_blank">Projeto A </a>
+- <a href="https://optimustech-sage.vercel.app/" target="_blank">Projeto B </a>
+- <a href="https://lading-page-puce.vercel.app/" target="_blank">Projeto C </a>
 ###
 
 ---
