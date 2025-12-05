@@ -61,10 +61,10 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 ###
 
-<!-- <div align="left"> 
+<div align="left"> 
   <img height=180em src="https://github-readme-stats-delta-amber.vercel.app/api?username=harrisoncalmeida&show_icons=true&theme=transparent" />
   <img height=180em src="https://github-readme-stats-delta-amber.vercel.app/api/top-langs/?username=harrisoncalmeida&layout=compact&theme=transparent" />
-  <img src="https://streak-stats.demolab.com?user=harrisoncalmeida&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div> -->
+  <!-- <img src="https://streak-stats.demolab.com?user=harrisoncalmeida&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
+</div>
 
 ###
