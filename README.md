@@ -51,9 +51,11 @@ Você pode me contatar diretamente através do meu [Gmail](mailto:harrisoncalmei
 
 ### 🚀 Projetos Recentes
 Aqui estão alguns dos meus projetos mais recentes:
-- <a href="https://one-piece-nine-livid.vercel.app/" target="_blank">Projeto A </a>
-- <a href="https://optimustech-sage.vercel.app/" target="_blank">Projeto B </a>
-- <a href="https://lading-page-puce.vercel.app/" target="_blank">Projeto C </a>
+<ul>
+  <li><a href="https://one-piece-nine-livid.vercel.app/" target="_blank">Projeto A</a></li>
+  <li><a href="https://optimustech-sage.vercel.app/" target="_blank">Projeto B</a></li>
+  <li><a href="https://lading-page-puce.vercel.app/" target="_blank">Projeto C</a></li>
+</ul>
 ###
 
 ---
